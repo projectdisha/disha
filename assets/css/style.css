@@ -245,7 +245,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: rgb(247, 231, 20) ;
+  color: rgb(169, 169, 169) ;
 }
 
 .nav-menu .drop-down > a:after {
@@ -302,7 +302,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
-  background:  rgb(247, 231, 20);
+  background:  rgb(253, 56, 71);
   color:#da2c43;
 }
 
@@ -358,7 +358,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: rgb(247, 231, 20);
+  color: rgb(0, 0, 0);
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
@@ -482,7 +482,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .btn-get-started:hover {
   background:  #da2c43;
-  color: rgb(247, 231, 20);
+  color: rgb(253, 256, 71);
   border: 2px solid  black;
 }
 
@@ -602,7 +602,7 @@ section {
 
 .about .content .learn-more-btn {
   background:  #da2c43;
-  color: rgb(247, 231, 20);
+  color: rgb(253, 256, 71);
   border-radius: 50px;
   padding: 8px 25px 9px 25px;
   white-space: nowrap;
@@ -680,7 +680,7 @@ section {
 }
 
 .why-us .content .more-btn:hover {
-  color: rgb(247, 231, 20);
+  color: rgb(253, 256, 71);
   background: black;
 }
 
@@ -747,11 +747,11 @@ section {
 }
 
 .features .icon-box:hover {
-  border-color:   rgb(247, 231, 20);
+  border-color:   rgb(253, 56, 71);
 }
 
 .features .icon-box:hover h3 a {
-  color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
 }
 
 /*--------------------------------------------------------------
@@ -777,7 +777,7 @@ section {
 }
 
 .courses .course-content h3 a:hover {
-  color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
 }
 
 .courses .course-content p {
@@ -789,7 +789,7 @@ section {
   font-size: 14px;
   background:  #da2c43;
   padding: 7px 14px;
-  color: rgb(247, 231, 20);
+  color: rgb(253, 56, 71);
   margin: 0;
 }
 
@@ -869,7 +869,7 @@ section {
 }
 
 .trainers .member .social a:hover {
-  color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
 }
 
 .trainers .member .social i {
@@ -953,7 +953,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color:  rgb(247, 231, 20) !important;
+  background-color:  rgb(253, 56, 71) !important;
 }
 
 @media (max-width: 767px) {
@@ -998,7 +998,7 @@ section {
   display: block;
   width: 60px;
   height: 1px;
-  background:  rgb(247, 231, 20);
+  background:  rgb(253, 256, 71);
   bottom: 0;
   left: 0;
 }
@@ -1049,12 +1049,12 @@ section {
 }
 
 .cource-details-tabs .nav-link:hover {
-  color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
 }
 
 .cource-details-tabs .nav-link.active {
-  color:  rgb(247, 231, 20);
-  border-color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
+  border-color:  rgb(253, 56, 71);
 }
 
 .cource-details-tabs .tab-pane.active {
@@ -1153,11 +1153,11 @@ section {
 }
 
 .events .card:hover .card-body {
-  border-color: rgb(247, 231, 20);
+  border-color: rgb(253, 56, 71);
 }
 
 .events .card:hover .card-body .card-title a {
-  color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
 }
 
 /*--------------------------------------------------------------
@@ -1217,7 +1217,7 @@ section {
 }
 
 .pricing ul i {
-  color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1254,7 +1254,7 @@ section {
 
 .pricing .featured h3 {
   color: #fff;
-  background:  rgb(247, 231, 20);
+  background:  rgb(253, 56, 71);
 }
 
 .pricing .advanced {
@@ -1266,7 +1266,7 @@ section {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background:  rgb(247, 231, 20);
+  background:  rgb(253, 56, 71);
   color: #fff;
 }
 
@@ -1288,7 +1288,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background:  rgb(247, 231, 20);
+  background:  rgb(253, 56, 71);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1317,12 +1317,12 @@ section {
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: black;
-  color: rgb(247, 231, 20);
+  color: rgb(253, 56, 71);
 }
 
 .contact .php-email-form {
   width: 100%;
-  background: rgb(247, 231, 20);
+  background: rgb(253, 56, 71);
 }
 
 .contact .php-email-form .form-group {
@@ -1352,7 +1352,7 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: rgb(247, 231, 20);
+  color: rgb(253, 56, 71);
   background:  black;
   text-align: center;
   padding: 15px;
@@ -1373,7 +1373,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid  rgb(247, 231, 20);
+  border: 3px solid  rgb(253, 56, 71);
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1386,7 +1386,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color:  rgb(247, 231, 20);
+  border-color:  rgb(253, 56, 71);
 }
 
 .contact .php-email-form input {
@@ -1401,7 +1401,7 @@ section {
   background:  #da2c43;
   border: 0;
   padding: 10px 35px;
-  color: rgb(247, 231, 20);
+  color: rgb(253, 56, 71);
   transition: 0.4s;
   border-radius: 50px;
 }
@@ -1506,7 +1506,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
 }
 
 #footer .footer-newsletter {
@@ -1547,7 +1547,7 @@ section {
   font-size: 16px;
   padding: 0 20px 2px 20px;
   background:   #da2c43;
-  color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
   transition: 0.3s;
   border-radius: 50px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
@@ -1563,12 +1563,12 @@ section {
 }
 
 #footer .credits a {
-  color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
   transition: 0.3s;
 }
 
 #footer .credits a:hover {
-  color:  rgb(247, 231, 20);
+  color:  rgb(253, 56, 71);
 }
 
 #footer .social-links a {
